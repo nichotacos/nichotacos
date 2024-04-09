@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://nichotacos.com">Nicholas Yang</a></b>
+                <b><a target="_blank" href="https://github.com/nichotacos">Nicholas Yang</a></b>
         </samp>
 </h3>
 
