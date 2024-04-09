@@ -66,11 +66,8 @@
  👨‍💻 &emsp; Strong interest in Application Development<br></br>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: nicho.yeo7@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/nichotacos/nichotacos/issues)<br></br>
- ![BuiltW/Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-
-
 </p>
+<!-- ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg) -->
 
 <br/>
 <br/>
@@ -78,7 +75,7 @@
 
 ## Use To Code
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
