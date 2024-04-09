@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://nichotacos.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://nichotacos.com">Nicholas Yang</a></b>
         </samp>
 </h3>
 
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am an undergraduate Informatics student with a strong interest in Application Development 」
     <br>
     <br>
   </samp>
