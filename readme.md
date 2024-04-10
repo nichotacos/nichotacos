@@ -52,9 +52,6 @@
  <a href="https://instagram.com/nicholazz._" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="nichotacos" />
  </a>  -->
-<!--  <a href="https://facebook.com/nichotacos.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="nichotacos"  />
-  </a>  -->
 </p>
 <br />
 
@@ -67,9 +64,8 @@
  👨‍💻 &emsp; Strong interest in Application Development<br></br>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: nicho.yeo7@gmail.com<br/><br/>
+ <br></br>
 </p>
-
-
 
 <br/>
 <br/>
