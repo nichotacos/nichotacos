@@ -1,9 +1,9 @@
-<!--
+
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
+
 
 <!--
 <p align="center">
@@ -121,4 +121,4 @@
 </a>
 
 
-![nichotacos Graph](https://github-readme-activity-graph.vercel.app/graph?username=nichotacos&custom_title=Al%20Nicholas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![nichotacos Graph](https://github-readme-activity-graph.vercel.app/graph?username=nichotacos&custom_title=%20Nicholas%20Yang's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
