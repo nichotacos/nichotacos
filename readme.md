@@ -4,18 +4,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-
-<!--
 <p align="center">
-  <a href="https://github.com/nichotacos"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=18&duration=4000&pause=1000&color=DDF722&center=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile;Passionate+in+software+engineering;Committed+to+continuous+growth;Leveraging+tech+for+impact" alt="Typing SVG" />
+  </a>
 </p>
-
- -->
 
 <a href="https://komarev.com/ghpvc/?username=nichotacos">
   <img align="right" src="https://komarev.com/ghpvc/?username=nichotacos&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
@@ -30,7 +26,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am an undergraduate Informatics student with a strong interest in Application Development 」
+    「 I am an undergraduate Informatics student with a strong interest in Software Engineering 」
     <br>
     <br>
   </samp>
