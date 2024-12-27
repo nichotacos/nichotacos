@@ -58,7 +58,7 @@
 <p>
   <img align="right" width="350" src="/assets/programmer2.gif" alt="Coding gif" />
  👨‍💻 &emsp; <samp>Strong interest in Application Development</samp><br></br>
- ❤️ &emsp; <samp>Love to writing code and learning new features</samp><br/><br/>
+ ❤️ &emsp; <samp>Love to write code and learning new features</samp><br/><br/>
  📧 &emsp; <samp>Reach me anytime: nicho.yeo7@gmail.com</samp>
  <br/><br/>
  <br></br>
